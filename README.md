@@ -1,4 +1,4 @@
-# baseball
+# Hidden Markov Model for Pitchers' States
 This repo contains R, Python, and MATLAB files used in baseball research. The focus of the research was primarly ivestigating the "third time through the order" penalty for major league pitchers. The primary algorithm and theory used in this research is the Hidden Markov Model. 
 
 The "data analysis" folder contains R files for scrapping the data and all exploratory analysis to find strike out ratio, batting avg, etc. 
